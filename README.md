@@ -1,6 +1,6 @@
-# gopalblog
+# myblog
 
-Test app
+A streamlit app to launch my Blog Website.
 
 How to run and deploy the app?
 
@@ -8,21 +8,21 @@ How to run and deploy the app?
 # Open New Terminal on your Mac
 
 # Git clone this repo
-$ git clone git@github.com:pkasinathan/gopalblog.git
-Cloning into 'gopalblog'...
+$ git clone git@github.com:gopal470/myblog.git
+Cloning into 'myblog'...
 remote: Enumerating objects: 4, done.
 remote: Counting objects: 100% (4/4), done.
 remote: Compressing objects: 100% (3/3), done.
 remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (4/4), done.
-$ cd gopalblog
+$ cd myblog
 
 # Verify the list of files. It should contain your app.py and requirements.txt
 $ ls -ltr
 total 24
--rw-r--r--  1 prabhukasinathan  staff  884 Apr  1 10:40 app.py
--rw-r--r--  1 prabhukasinathan  staff   10 Apr  1 10:40 requirements.txt
--rw-r--r--  1 prabhukasinathan  staff   73 Apr  1 10:41 README.md
+-rw-r--r--  1 user  staff  884 Apr  1 10:40 app.py
+-rw-r--r--  1 user  staff   10 Apr  1 10:40 requirements.txt
+-rw-r--r--  1 user  staff   73 Apr  1 10:41 README.md
 $
 
 # Run locally and test the app
