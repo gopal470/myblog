@@ -44,11 +44,11 @@ http://localhost:8501
 # If it looks good, click "deploy" on the right upper corner.
 # Choose "Streamlit Community" App.
 # Create an account if you dont have one. Connect with your github repo if required.
-# Then, fill the app-url, example gopalblogtest. And your app is launched now.
-# Visit https://gopalblogtest.streamlit.app now and your app is ready.
+# Then, fill the app-url, example gopalblog. And your app is launched now.
+# Visit https://gopalblog.streamlit.app now and your app is ready.
 ```
 
-Congratulations for successfuly launching your first Streamlit app: https://gopalblogtest.streamlit.app
+Congratulations for successfuly launching your first Streamlit app: https://gopalblog.streamlit.app
 
 To learn more about streamlit, visit below tutorials and documentations:
 * Youtube Tutorials: [Streamlit Tutorials from Coding Is Fun](https://www.youtube.com/playlist?list=PL7QI8ORyVSCaejt2LICRQtOTwmPiwKO2n)
